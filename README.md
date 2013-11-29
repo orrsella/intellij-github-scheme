@@ -23,6 +23,6 @@ Download `settings.jar` and in IntelliJ go to `File | Import Settings...` and ch
 
 ### Manual
 
-Download `GitHub.xml` and copy it into the `colors/` directory in the IntelliJ preferences folder. In OS X: `~/Library/Preferences/IntelliJIdea12/colors/`.
+Download `GitHub.icls` and copy it into the `colors/` directory in the IntelliJ preferences folder. In OS X: `~/Library/Preferences/IntelliJIdea12/colors/`.
 
 After installation of the color scheme restart IntelliJ and then select the new scheme by going to `Preferences | Editor | Colors & Fonts`.

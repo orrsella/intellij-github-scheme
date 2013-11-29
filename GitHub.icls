@@ -53,6 +53,7 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="445588" />
+        <option name="BACKGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1084,7 +1085,6 @@
     </option>
     <option name="Scala Template var">
       <value>
-        <option name="EFFECT_COLOR" value="d90328" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
