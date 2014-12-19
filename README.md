@@ -1,6 +1,6 @@
 # IntelliJ GitHub Color Scheme
 
-The GitHub color-scheme for IntelliJ IDEA. You can see a screenshot [here](http://orrsella.com/2013/08/12/github-color-scheme-for-intellij/). (But you don't really need to, because it's just like GitHub. Only in IntelliJ.)
+The (now old, but still superior IMO) GitHub color-scheme for IntelliJ IDEA. You can see a screenshot [here](http://orrsella.com/2013/08/12/github-color-scheme-for-intellij/). (But you don't really need to, because it's just like GitHub. Only in IntelliJ.)
 
 ## Supported Syntax / Languages
 
